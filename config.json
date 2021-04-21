@@ -1,7 +1,7 @@
 {
   "TOKEN": "xxxxxxxx",
   "YOUTUBE_API_KEY": "xxxxxxx",
-  "SOUNDCLOUD_CLIENT_ID": "", //لێرە هیچ شتێک مەنوسە//
+  "SOUNDCLOUD_CLIENT_ID": "", ///لێرە هیچ شتێک مەنوسە///
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "/",
   "PRUNING": false,
